@@ -1,0 +1,17 @@
+{
+
+    "NAME": "Ramneek Kaur",
+    "ABOUT_ME": " Life is what happens when you're busy making other plans",
+    "LANGUAGES": [
+        "Java",
+        "C++",
+        "Python",
+        "Django"
+    ],
+    "PROJECTS": [
+        ["filter_drama", "Myntra ", " Best shopping site!!!"],
+        ["place", "Shein", " The fancy store!!"],
+        ["whatshot", "Ajio", " The unusual fashion!!"]
+    ]
+
+}
